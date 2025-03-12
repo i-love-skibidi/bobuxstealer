@@ -1,4 +1,2 @@
 # Bobux Stealer 1.0
----
-## Made By:
-*** Jnixt *** (Duh)
+Made By <b>Jnixt</b>
